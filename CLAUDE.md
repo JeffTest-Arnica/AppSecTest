@@ -1,5 +1,3 @@
-Test File
-
 <!-- ====== ARNICA AI CODING RULES START ====== -->
 
 ---
