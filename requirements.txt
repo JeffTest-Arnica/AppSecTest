@@ -1,0 +1,24 @@
+boto3~=1.40
+requests~=2.32
+python-dateutil~=2.9
+dnspython~=2.7
+sentry-sdk~=2.39
+feedparser~=6.0
+smart-open~=7.3
+beautifulsoup4~=4.14
+git+ssh://git@github.com/dnsfilter/webshrinker-lib.git@py-313#egg=webshrinker_lib
+pycryptodome
+parameterized
+mypy-boto3-athena
+json-stream
+tldextract
+
+# CTIRU XLSX handling
+openpyxl~=3.1
+
+# Interpol encrypted zip handling
+pyzipper~=0.3
+
+# Hosting info
+geoip2
+ipwhois
